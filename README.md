@@ -41,5 +41,6 @@ src/app.module.ts
 Filepath patterns:
 
 src/app/components/{component name}/{component name}.component.ts
+
 src/app/services/{service name}/{service name}.service.ts
 
