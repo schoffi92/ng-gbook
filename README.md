@@ -31,12 +31,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 The source files in the source/src directory.
 
 Config file (routes):
-source/src/app.config.ts
+
+src/app.config.ts
 
 Module file:
-source/src/app.module.ts
+
+src/app.module.ts
 
 Filepath patterns:
-source/src/app/components/{component name}/{component name}.component.ts
-source/src/app/services/{service name}/{service name}.service.ts
+
+src/app/components/{component name}/{component name}.component.ts
+src/app/services/{service name}/{service name}.service.ts
 
